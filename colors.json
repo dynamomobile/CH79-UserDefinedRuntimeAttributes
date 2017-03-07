@@ -1,0 +1,28 @@
+{
+    "swatches": {
+        "green":         "00ff00",
+        "blue":          "0000ff",
+        "yellow":        "ffff00",
+        "balticSea":     "312d3a",
+        "blueHaze":      "CCC3E1",
+        "amethystSmoke": "968baf",
+        "gunPowder":     "433e50",
+        "wildSand":      "f5f5f5",
+        "havelockBlue":  "4a90e2",
+        "alabaster":     "fbfbfb",
+        "rum":           "6e6582",
+        "tradewind":     "60b8ae",
+        "gamboge":       "f6a623",
+        "cinnabar":      "f04747",
+        "silverChalice": "aeaeae",
+        "iron":          "d4d4d4",
+        "black":         "000000",
+        "white":         "ffffff",
+        "dark":          "201c28"
+    },
+    "scheme": {
+        "welcomeTitle":          "amethystSmoke",
+        "lightButton":           "white",
+        "lightButtonBackground": "blueHaze"
+    }
+}
